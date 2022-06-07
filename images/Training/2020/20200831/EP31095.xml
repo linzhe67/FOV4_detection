@@ -1,0 +1,26 @@
+<annotation>
+	<folder>20200831</folder>
+	<filename>EP31095.JPG</filename>
+	<path>E:\Projects\FOV4\Training\2020\20200831\EP31095.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>63</width>
+		<height>401</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>62</xmax>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+</annotation>

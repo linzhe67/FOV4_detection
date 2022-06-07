@@ -1,0 +1,26 @@
+<annotation>
+	<folder>20210928</folder>
+	<filename>EP3120.JPG</filename>
+	<path>E:\Projects\FOV4\Training\2021\20210928\EP3120.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>68</width>
+		<height>432</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>68</xmax>
+			<ymax>431</ymax>
+		</bndbox>
+	</object>
+</annotation>
